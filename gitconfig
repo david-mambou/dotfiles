@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = david.mambou@gmail.com
+	name = David Mambou
