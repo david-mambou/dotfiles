@@ -75,5 +75,22 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "eslint.probe": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "html",
+      "vue",
+      "markdown",
+      "ruby"
+    ],
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.accessibilitySupport": "off",
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "workbench.colorTheme": "Atom One Dark"
+
 }
